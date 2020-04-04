@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Mr Pharmacy</string>
+    <string-array name="areas">
+        <item>Bashundhara</item>
+        <item>Uttara</item>
+        <item>Dhanmondi</item>
+        <item>Banani</item>
+        <item>Mirpur</item>
+    </string-array>
+
+
+    <string-array name="medicineType">
+        <item>Tablet</item>
+        <item>Capsule</item>
+        <item>Syrup</item>
+        <item>Dropper</item>
+        <item>Injection</item>
+        <item>Ointment</item>
+        <item>Others</item>
+    </string-array>
+
+    <string-array name="Bashundhara">
+        <item>Shobuj Pharmacy</item>
+        <item>Rahman Pharmacy</item>
+        <item>Health Pharmacy</item>
+    </string-array>
+
+    <string-array name="Uttara">
+        <item>Kal Pharmacy</item>
+        <item>Nasir Pharmacy</item>
+        <item>Digital Pharmacy</item>
+    </string-array>
+
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="cart">Cart</string>
+    <string name="store">Pharmacies</string>
+    <string name="about">About</string>
+
+    <string name="signUp">Not yet Registered? <font color='#01C6DB'><u>Sign Up</u></font> Here!</string>
+
+    <string name="howtoorder">You can order by 1 of these 2 ways. Follow one which you prefer.\n<b>1.With Prescription :</b> In the Cart section, there is a button <b>SELECT</b>
+        , by clicking it you can select a photo of your prescription.
+        \nAfter selecting, a dialog box will appear where you put a name and details of your prescription content so that we can deliver
+        accordingly your instructions.
+        \n\nHow to write details : Suppose your prescription has 2 medicines enlisted, Napa, Paracetamol. You can write this way, Napa Tablet 1 strip or
+        Napa 10 tablets, Paracetamol 1 strip or 10 tablets.
+        \nAfter completing these, click UPLOAD button below and your order is sent.
+        \n\n<b>2.By creating order Yourself :</b> In Home section, click <b>CREATE ORDER</b> there will be a dialog box where you put your necessary
+        information about your medicine like name, company name, power, type and quantity.
+        \n\nPlease remember this quantity indicates individual quantity of a medicine. For example, if you input 10 quantity, you will get
+        10 tablets/capsules etc. Where as if you need one ointment, input 1 in the quantity and Ointment in the Type section
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
